@@ -14,12 +14,12 @@ const authors = [
 
 const reviews = [
   { id: "1", rating: 9, content: "lorem ipsum", authot_id: "1", game_id: "2" },
-  { id: "2", rating: 9, content: "lorem ipsum", authot_id: "2", game_id: "1" },
-  { id: "3", rating: 9, content: "lorem ipsum", authot_id: "3", game_id: "3" },
-  { id: "4", rating: 9, content: "lorem ipsum", authot_id: "2", game_id: "5" },
-  { id: "5", rating: 9, content: "lorem ipsum", authot_id: "3", game_id: "4" },
-  { id: "6", rating: 9, content: "lorem ipsum", authot_id: "1", game_id: "1" },
-  { id: "7", rating: 9, content: "lorem ipsum", authot_id: "2", game_id: "2" },
+  { id: "2", rating: 8, content: "lorem ipsum", authot_id: "2", game_id: "1" },
+  { id: "3", rating: 7, content: "lorem ipsum", authot_id: "3", game_id: "3" },
+  { id: "4", rating: 2, content: "lorem ipsum", authot_id: "2", game_id: "5" },
+  { id: "5", rating: 8, content: "lorem ipsum", authot_id: "3", game_id: "4" },
+  { id: "6", rating: 4, content: "lorem ipsum", authot_id: "1", game_id: "1" },
+  { id: "7", rating: 5, content: "lorem ipsum", authot_id: "2", game_id: "2" },
 ];
 
 export default {
